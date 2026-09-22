@@ -1,4 +1,4 @@
-Create database if not exists bookstore;
+Create database bookstore;
 
 use bookstore;
 
